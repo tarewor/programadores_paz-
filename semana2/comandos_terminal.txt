@@ -1,0 +1,8 @@
+pwd
+dir
+cd documentos
+mkdir semana2 
+cd semana2 
+new-item preguntas-semana2.txt
+new-item comandos-terminal.txt
+new-item reflexion-semana2.txt
